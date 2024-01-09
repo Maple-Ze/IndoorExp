@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: robotExp
+Version: 0.0.1
+Summary: A reinforcement learning environment for robot autonomous exploration
+Requires-Dist: gym
+Requires-Dist: numpy
+Requires-Dist: pyyaml
+Requires-Dist: matplotlib
+Requires-Dist: opencv-python
